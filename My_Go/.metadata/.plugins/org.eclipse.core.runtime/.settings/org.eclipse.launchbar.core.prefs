@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:MyGo - hello,org.eclipse.launchbar.core.descriptorType.default\:MyGo - go_file,org.eclipse.launchbar.core.descriptorType.default\:MyGo_1 - go_file
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:MyGo\ -\ go_file/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:MyGo\ -\ go_file/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MyGo\ -\ hello/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:MyGo\ -\ hello/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MyGo_1\ -\ go_file/activeLaunchMode=run
